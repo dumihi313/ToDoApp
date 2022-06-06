@@ -13,3 +13,14 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+
+# Generated files
+bin/
+gen/
+out/
